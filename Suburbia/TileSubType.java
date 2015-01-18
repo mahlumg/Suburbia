@@ -1,0 +1,5 @@
+package Suburbia;
+
+public enum TileSubType {
+	NONE, RESTAURANT, BUSINESS, SCHOOL, SKYSCRAPER, DEALERSHIP, AIRPORT
+}
