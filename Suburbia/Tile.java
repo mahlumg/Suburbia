@@ -2,7 +2,10 @@ package Suburbia;
 
 import java.util.*;
 
+
 public class Tile {
+
+	public static int Neighbors = 6;
 
 	int m_Owner;
 	int m_TileID;
