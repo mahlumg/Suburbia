@@ -1,6 +1,10 @@
 package Suburbia;
 
+import java.util.*;
+
 public class Game {
+	
 	Board m_Board;
-	Player m_Players;
+	Vector<Player> m_Players;
+	
 }

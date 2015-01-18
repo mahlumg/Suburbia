@@ -1,5 +1,7 @@
 package Suburbia;
 
+import java.util.*;
+
 public class Player {
 
 	int m_PlayerID;
@@ -7,5 +9,5 @@ public class Player {
 	int m_Income;
 	int m_Population;
 	int m_Reputation;
-	Tile m_Tiles[];
+	Vector<Tile> m_Tiles;
 }
